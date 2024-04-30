@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI and ML
-- 📫 How to reach me: a_boraphet@hotmail.com
+- 📫 How to reach me: aboraphet@gmail.com
 
 <!---
 Andy-Boraphet/Andy-Boraphet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
